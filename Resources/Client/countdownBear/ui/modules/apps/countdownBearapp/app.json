@@ -1,0 +1,17 @@
+{
+  "domElement": "<countdown-bearapp></countdown-bearapp>",
+  "name": "Countdown bear",
+  "types": [
+    "ui.apps.categories.debug"
+  ],
+  "description": "countdown app",
+  "css": {
+    "left": "0px",
+    "top": "0px",
+    "height": "180px",
+    "width": "180px"
+  },
+  "author": "Bjorn",
+  "version": "0.1",
+  "directive": "countdownBearapp"
+}
