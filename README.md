@@ -14,7 +14,7 @@ Start countdown by typing:
 ```
 Dont forget to add the ui app to your ui via the in game menu.
 
-[Download](https://github.com/dasbjoern/countdownBear/releases/latest)
+## [Download](https://github.com/dasbjoern/countdownBear/releases/latest)
 
 Installation:
 
