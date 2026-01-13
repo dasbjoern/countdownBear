@@ -1,8 +1,15 @@
 # countdownBear
 A simple countdown extension for BeamMP. Displays the countdown via a simple ui and will make sounds for the remaining 3 seconds + "go".
 
-Start countdown by typing /race n [optional] or /countdown n [optional], where n can be any number up to 60 (Changable in server lua). Default time is 5 seconds.
-
+```
+Start countdown by typing:
+ /race
+ /countdown
+ /race n
+ /countdown n
+ n - Any number between 1 and 60. Changeable in server lua.
+ Default is 5 seconds.
+```
 Dont forget to add the ui app to your ui via the in game menu.
 
 [Download](https://github.com/dasbjoern/countdownBear/releases/latest)
