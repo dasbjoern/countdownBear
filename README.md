@@ -1,5 +1,7 @@
 # countdownBear
-A simple countdown extension for BeamMP. Displays the countdown via a simple ui and will make sounds for the remaining 3 seconds + "go".
+A simple countdown extension for BeamMP. Displays the countdown for all players in the server via a simple ui + chat, and will make a sound for every remaining 3 seconds + "go".
+
+Does not work without a server.
 
 ```
 Start countdown by typing:
