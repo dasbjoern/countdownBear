@@ -24,7 +24,7 @@ Open up the zip and simply drag the Resource folder into your BeamMP Server's ro
 Resources/
 ├── Client/
 │   └── countdownBear.zip
-├── Server/
-│   ├── countdownBear/
-│   │   └── countdownbearserver.lua
+└── Server/
+    ├── countdownBear/
+    └── countdownbearserver.lua
 ```
