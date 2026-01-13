@@ -6,3 +6,14 @@ Start countdown by typing /race n [optional] or /countdown n [optional], where n
 Dont forget to add the ui app to your ui via the in game menu.
 
 [Download](https://github.com/dasbjoern/countdownBear/releases/latest)
+
+Installation:
+
+Open up the zip and simply drag the Resource folder into your BeamMP Server's root folder. 
+
+Resources/
+├── Client/
+│   ├── countdownBear.zip
+├── Server/
+│   ├── countdownBear/
+│   │   └── countdownbearserver.lua
