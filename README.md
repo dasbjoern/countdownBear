@@ -11,9 +11,11 @@ Installation:
 
 Open up the zip and simply drag the Resource folder into your BeamMP Server's root folder. 
 
+```
 Resources/
 ├── Client/
-│   ├── countdownBear.zip
+│   └── countdownBear.zip
 ├── Server/
 │   ├── countdownBear/
 │   │   └── countdownbearserver.lua
+```
